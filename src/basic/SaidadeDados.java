@@ -1,3 +1,5 @@
+package basic;
+
 public class SaidadeDados {
     public static void main(String[] args) {
         System.out.print("O metodo System.out.print permite mostrar dados ao utilizadores");

@@ -1,3 +1,5 @@
+package basic;
+
 public class SomaDouble {
     public static void main(String[] args) {
 

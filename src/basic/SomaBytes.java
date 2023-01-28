@@ -1,3 +1,5 @@
+package basic;
+
 public class SomaBytes {
     public static void main(String[] args) {
         byte a;
